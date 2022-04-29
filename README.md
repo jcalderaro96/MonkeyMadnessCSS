@@ -2,3 +2,5 @@
 
 In this challenge, the goal was to replace any "WET", repetitive, or redundant coding in both HTML and CSS into more precise "DRY" code. 
 The code has been refactored with accessbility and semantic elements. 
+
+Link to deployed page: https://jcalderaro96.github.io/MonkeyMadnessCSS/
